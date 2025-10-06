@@ -12,7 +12,7 @@ const axios = require('axios');
 const yts = require("yt-search");
 const fetch = require("node-fetch"); 
 const api = `https://api-dark-shan-yt.koyeb.app`;
-const apikey = `edbcfabbca5a9750`;
+const apikey = `1c5502363449511f`;
 const { initUserEnvIfMissing } = require('./settingsdb');
 const { initEnvsettings, getSetting } = require('./settings');
 //=======================================
